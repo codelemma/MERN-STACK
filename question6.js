@@ -25,4 +25,8 @@ function printSum(x=0){
         console.log("0");
     }
 }
-printSum(2914);
+printSum(1234568);
+/* OUTPUT
+Even sum is : 12
+Odd sum is : 17
+ */

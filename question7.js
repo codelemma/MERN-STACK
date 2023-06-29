@@ -21,5 +21,11 @@ function properFormat(x){
         console.log(0);
     }
 }
-properFormat("undefined");
+properFormat("hE iS vErY gOOd cOdEr ");
+/* 
+
+OUTPUT
+He Is Very Good Coder  
+ */
+
 

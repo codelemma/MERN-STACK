@@ -18,3 +18,10 @@ console.log("mm-dd-yyyy :"+month +"-"+ date +"-"+ year);
 console.log("mm/dd/yyyy :"+month +"/"+ date +"/"+ year);
 console.log("dd-mm-yyyy :"+date +"-"+ month +"-"+ year);
 console.log("dd/mm/yyyy :"+date +"/"+ month +"/"+ year);
+/*
+OUTPUT :
+mm-dd-yyyy :07-01-2023
+mm/dd/yyyy :07/01/2023
+dd-mm-yyyy :01-07-2023
+dd/mm/yyyy :01/07/2023
+ */

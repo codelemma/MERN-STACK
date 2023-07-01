@@ -21,3 +21,8 @@ else{
     currTime = currTime + " " + "PM";
 }
 console.log("Current Time is : "+currTime+" : "+ d.getMinutes()+ " : "+ d.getSeconds());
+/*
+OUTPUT :
+Today is : Saturday
+Current Time is : 7 AM : 11 : 35
+ */
